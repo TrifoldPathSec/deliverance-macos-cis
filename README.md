@@ -9,8 +9,13 @@
 | **Before** | 40 | 24 | 2 | **62%** |
 | **After** | 66 | 0 | 0 | **100%** |
 
-<!-- Screenshots: add images/before.png and images/after.png (blur usernames, hostnames and IPs) -->
-<!-- ![Before: 62%](images/before.png) ![After: 100%](images/after.png) -->
+**Before**
+
+![Before: 62%](before.png)
+
+**After**
+
+![After: 100%](after.png)
 
 ---
 
